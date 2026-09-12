@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azizurrehman-web" alt="azizurrehman-web" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/azizurrehmanai" target="blank"><img src="https://img.shields.io/twitter/follow/azizurrehmanai?logo=twitter&style=for-the-badge" alt="azizurrehmanai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/azizurrehmanweb" target="blank"><img src="https://img.shields.io/twitter/follow/azizurrehmanweb?logo=twitter&style=for-the-badge" alt="azizurrehmanweb" /></a> </p>
 
 - 🔭 I’m currently working on **my Full-Stack & AI learning projects**
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/azizurrehmanai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizurrehmanai" height="30" width="40" /></a>
+<a href="https://twitter.com/azizurrehmanweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizurrehmanweb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aziz-ur-rehman-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz-ur-rehman-aslam" height="30" width="40" /></a>
 <a href="https://fb.com/aziz-ur-rehman-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aziz-ur-rehman-aslam" height="30" width="40" /></a>
 <a href="https://instagram.com/azizurrehmanweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizurrehmanweb" height="30" width="40" /></a>
