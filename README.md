@@ -27,7 +27,7 @@
 <p align="left">
 <a href="https://twitter.com/azizurrehmanweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azizurrehmanweb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aziz-ur-rehman-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aziz-ur-rehman-aslam" height="30" width="40" /></a>
-<a href="https://fb.com/aziz-ur-rehman-aslam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aziz-ur-rehman-aslam" height="30" width="40" /></a>
+<a href="https://facebook.com/azizurrehmanweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="azizurrehmanweb" height="30" width="40" /></a>
 <a href="https://instagram.com/azizurrehmanweb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="azizurrehmanweb" height="30" width="40" /></a>
 </p>
 
